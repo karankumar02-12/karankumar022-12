@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Karan Kumar]
+# 👋 Hi, I'm Karan Kumar
 
 Data enthusiast passionate about transforming raw data into actionable insights. Currently seeking opportunities in **Data Science** and **Data Analytics** roles.
 
