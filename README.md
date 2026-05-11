@@ -18,7 +18,7 @@ Expanding into AI and Large Language Models (LLMs) while competing in Kaggle com
 ## 🤝 Let's Connect
 I'm open to collaborating on data projects and always eager to learn from the community. Feel free to explore my repositories and reach out!
 
-📫 [karan.kumar021299@gmail..com]
+📫 [karan.kumar021299@gmail.com]
 
 ---
 *"In God we trust, all others must bring data." – W. Edwards Deming*
